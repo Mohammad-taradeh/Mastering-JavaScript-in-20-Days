@@ -30,7 +30,7 @@ In this challenge, i will enhance my JavaScript skills and knowledge. Each day, 
 ## Folder Structure
 -  [**Day 1**](https://github.com/Mohammad-taradeh/Mastering-JavaScript-in-20-Days/blob/main/Day1.md)
 -  [**Day 2**](https://github.com/Mohammad-taradeh/Mastering-JavaScript-in-20-Days/blob/main/Day2.md)
--  [**Day 3**](https://github.com/ramisalman1/JavaScriptLearningSprint/blob/main/Day1.md)
+-  [**Day 3**](https://github.com/Mohammad-taradeh/Mastering-JavaScript-in-20-Days/blob/main/Day3.md)
 -  [**Day 4**](https://github.com/ramisalman1/JavaScriptLearningSprint/blob/main/Day1.md)
 -  [**Day 5**](https://github.com/ramisalman1/JavaScriptLearningSprint/blob/main/Day1.md)
 
