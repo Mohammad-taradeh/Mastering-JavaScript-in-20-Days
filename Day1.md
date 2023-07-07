@@ -61,9 +61,22 @@ we can use command like:
       - Strict (===), (!==)
       - Loosey-goosey (==), (!=)
 
-
+   
 - **Unary Operators**
     - Increment (++)
     - Decrement (--)
     - Logical Not (!)
 
+
+**That how i solve Compound Assignment With Augmented Multiplication**
+
+![image](https://github.com/Mohammad-taradeh/Mastering-JavaScript-in-20-Days/assets/98043145/e430b1ff-eb1e-4be5-a5f8-9be2de123fb7)
+
+
+**That how i solve Concatenating Strings with the Plus Equals Operator**
+
+![image](https://github.com/Mohammad-taradeh/Mastering-JavaScript-in-20-Days/assets/98043145/5145ca6a-5a4f-4d4e-b1cb-b1a0af814659)
+
+**That how i solve Use Bracket Notation to Find the Nth-to-Last Character in a String**
+
+![image](https://github.com/Mohammad-taradeh/Mastering-JavaScript-in-20-Days/assets/98043145/20e01844-abcb-47df-9223-7edd06b7ec33)
