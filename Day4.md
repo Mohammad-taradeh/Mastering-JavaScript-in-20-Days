@@ -1,7 +1,7 @@
 # This Is My fourth Day Of Mastering JavaScript In 20 Days
 
 
-# Tdit this part
+# Fill This Part
 
 
 Use Multiple Conditional (Ternary) Operators
