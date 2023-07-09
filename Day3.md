@@ -9,7 +9,8 @@
 Return a Value from a Function with Return
 ```function timesFive (n) {
   return n * 5;
-};```
+};
+```
 
 Global Scope and Functions
 ```
