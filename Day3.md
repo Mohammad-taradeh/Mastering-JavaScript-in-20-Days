@@ -7,7 +7,8 @@
 
 
 Return a Value from a Function with Return
-```function timesFive (n) {
+```
+function timesFive (n) {
   return n * 5;
 };
 ```
@@ -22,10 +23,12 @@ console.log(myGlobal) // 5
 }
 console.log(myGlobal) // 10
 
-// Only change code above this line```
+// Only change code above this line
+```
 
 Local Scope and Functions
-```function myLocalScope() {
+```
+function myLocalScope() {
   // Only change code below this line
 let myVar;
   console.log('inside myLocalScope', myVar); // inside myLocalScope undefined
@@ -38,7 +41,8 @@ console.log('outside myLocalScope', myVar); // ReferenceError: myVar is not defi
 ```
 
 Global vs. Local Scope in Functions
-```// Setup
+```
+// Setup
 const outerWear = "T-Shirt";
 
 function myOutfit() {
