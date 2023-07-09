@@ -1,4 +1,4 @@
-# This is my first day of mastering JavaScript
+# This Is My First Day Of Mastering JavaScript In 20 Days
 ## I learn what is JavaScript and what it's used for.
 
 **JavaScript:** it's a programming language used to build the logic of websites and to make the websites responsive and to make the website communicate with the server (build the server side code)
