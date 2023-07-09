@@ -41,7 +41,8 @@ golfScore(5, 4);
 
 
 Use the map Method to Extract Data from an Array
-```// The global variable
+```
+// The global variable
 const watchList = [
   {
     "Title": "Inception",
