@@ -2,35 +2,29 @@
 
 
 ## Lessons Summary
-- Web browser fires many events when something hppend, so we need to handle this events , so the JS offers many methods to handle this events.
-- Conditional statement like "if" statement let us run the code under certain conditions.
-- JS can only do one task at a time ("single-threaded").
-- Some actions needed a lot of time to run like "waiting from user events " ,so we use an asynchronus code for it .
-- "setTimeout" method is used to delay action.
+- Comments is important in JS, it Help others (and yourself)understand your code.
+-  Arrow function is unnamed function without much code.
+- Scope determines where variables are "in play".
+- There is a difference between "let" and "var" in their scope
 
 ## Coding Examples
 ```
-// loops Examples
-const numbers = [1,2,3];
+// Example 1: declare the following functions :
+//1. multiply: given 2 numbers, return their product
+ function product(n1,n2)
+ { return n1*n2;
+ }
+ //2.longerThan: given 2 arrays, return whether the first is 
+ longer than the second
+ function longerThan(a1, a2) {
+ return a1.length>a2.length;
+ }
 
-for (let i = 0; i < numbers.length; i++) {
-    console.log(numbers[i]);
-}
+ //Example 2 :declare function using arrow functions:
 
-for (let n of numbers) {
-    console.log(n);
-}
------------------------------------------------------
-// map and filter Examples
-//From the spices array, use map and filter to create a new array endInY with just the girls whose nickname ends in "y"
-const spices = [
-    {name: "Emma", nickname: "Baby"},
-    {name: "Geri", nickname: "Ginger"},
-    {name: "Mel B", nickname: "Scary"},
-    {name: "Mel C", nickname: "Sporty"},
-    {name: "Victoria", nickname: "Posh"}
-];
-let endInY=spices.filter(s=>s.nickname.endsWith("y"));
+//divide: given 2 numbers, return the first divided by the second
+ 
+ const divide=(n1,n2)=>n1/n2;
 
 ```
 
