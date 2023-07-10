@@ -1,11 +1,41 @@
 # This Is My Third Day Of Mastering JavaScript In 20 Days
 
 
+## Lessons Summary
+- Web browser fires many events when something hppend, so we need to handle this events , so the JS offers many methods to handle this events.
+- Conditional statement like "if" statement let us run the code under certain conditions.
+- JS can only do one task at a time ("single-threaded").
+- Some actions needed a lot of time to run like "waiting from user events " ,so we use an asynchronus code for it .
+- "setTimeout" method is used to delay action.
 
-#Fill This Part
+## Coding Examples
+```
+// loops Examples
+const numbers = [1,2,3];
+
+for (let i = 0; i < numbers.length; i++) {
+    console.log(numbers[i]);
+}
+
+for (let n of numbers) {
+    console.log(n);
+}
+-----------------------------------------------------
+// map and filter Examples
+//From the spices array, use map and filter to create a new array endInY with just the girls whose nickname ends in "y"
+const spices = [
+    {name: "Emma", nickname: "Baby"},
+    {name: "Geri", nickname: "Ginger"},
+    {name: "Mel B", nickname: "Scary"},
+    {name: "Mel C", nickname: "Sporty"},
+    {name: "Victoria", nickname: "Posh"}
+];
+let endInY=spices.filter(s=>s.nickname.endsWith("y"));
+
+```
 
 
-
+## coding Exercises
 Return a Value from a Function with Return
 ```
 function timesFive (n) {
