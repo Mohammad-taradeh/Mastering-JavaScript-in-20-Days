@@ -15,8 +15,10 @@ We should use camelCase to declare variables
 
 **There ara different types of variables**
 1- var: we can dclare a variable using var like 
-```var x;
-x =10;```
+```
+var x;
+x =10;
+```
 it's known as function scoop variable
 
 2- let: thst's how we can delcare a variable using let
@@ -69,14 +71,16 @@ note that variables also could be immutable like const
 
 ## objects
 objects collect multiple values togather to describe more complex data also let us point at related values using properties in the object.
-```const js = {
+```
+const js = {
     name: "JavaScript",
     abbreviation: "JS",
     isAwesome: true,
     officialSpec: "ECMAScript",
     birthYear: 1995,
     creator: "Brendan Eich"
-};```
+};
+```
 we can use property values like this
 ``` js.name.startsWith("Java"); // this will return ture
 let age = 2023 - js.birthYear; // age = 28
