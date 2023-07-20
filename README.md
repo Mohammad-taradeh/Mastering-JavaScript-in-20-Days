@@ -43,3 +43,5 @@ In this challenge, i will enhance my JavaScript skills and knowledge. Each day, 
     - [**Day 3**](https://github.com/Mohammad-taradeh/Mastering-JavaScript-in-20-Days/blob/main/Day8.md)
     - [**Day 4**](https://github.com/Mohammad-taradeh/Mastering-JavaScript-in-20-Days/blob/main/Day9.md)
 
++ Week Number Three:
+    - [**Day 1**](https://github.com/Mohammad-taradeh/Mastering-JavaScript-in-20-Days/blob/main/Day10.md)
