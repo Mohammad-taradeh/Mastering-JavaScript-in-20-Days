@@ -22,6 +22,7 @@ tenSquared() //Calling the function
  
 ## Coding Exercises
 - Use higher-order functions map, filter or reduce to solve a complex problem
+  
 ```
   const squareList = arr => {
   // Only change code below this line
@@ -50,10 +51,12 @@ tenSquared() //Calling the function
     // Only change code above this line
     urlSlug("A Mind Needs Books Like A Sword Needs A Whetstone");
     //a-mind-needs-books-like-a-sword-needs-a-whetstone
-```
+  ```
 
 - Question 1: Functions and Callbacks
+
 ```
+
 function mapAsync(array, callback) {
   return new Promise((resolve, reject) => {
     const mappedArray = [];
@@ -100,6 +103,7 @@ mapAsync(array, asyncCallback)
 ```
 
 - Question 2: Call Stack and Recursion
+
 ```
 let sum = 0;
 const sumRange = (range) => {
@@ -110,4 +114,5 @@ const sumRange = (range) => {
 };
 sumRange(4);
 console.log(sum); //This will print 10
+
 ```
